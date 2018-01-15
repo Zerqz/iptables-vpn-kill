@@ -5,10 +5,8 @@
 
 
 # DISCLAIMER:
-You can not hold me accountable for any DMCA notice you might get while using this script. 
-
+You can not hold me accountable for any DMCA notice you might get while using this script. Pirating is bad, mmkaayyyy
 These are scripts I use on my own behalf that I find work very well, your mileage may vary.
-
 Always make a backup of any existing firewall rules prior to running these scripts, they will DELETE all existing rules.
 
 
