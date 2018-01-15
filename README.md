@@ -4,7 +4,7 @@
   Locks all outbound & inbound traffic to be through a specific IP address (IE, from your VPN) so in the case of a disconnection from it, all traffic will stop and not fail-over to your ISP's IP address. 
 
 
-DISCLAIMER:
+# DISCLAIMER:
 You can not hold me accountable for any DMCA notice you might get while using this script. 
 
 These are scripts I use on my own behalf that I find work very well, your mileage may vary.
